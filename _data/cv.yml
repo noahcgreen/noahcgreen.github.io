@@ -17,10 +17,6 @@
       description:
         - Conducted individual research on the application of reinforcement learning to robotic manipulation
         - Designed a parallel training and execution pipeline for non-prehensile manipulation of objects in obstacle-cluttered scenes, using PyTorch and Isaac Gym to distribute learning across thousands of GPU-accelerated simulations
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Bachelor of Science
       institution: Rutgers University
       year: 2017 - 2021
