@@ -2,24 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: >
+  <b>Software Developer seeking employment.</b> Previously: <a href="https://arc-l.github.io">ARC Lab</a> @ RU
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>At <a href="https://icra2022.org">ICRA 2022</a> :)</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a project person with a passion for all things technological. I love exploring the world of software, hardware,
+and the human experience to identify creative and fulfilling projects. I've dabbled in a variety of disciplines
+through my work, courses, and personal projects: robotics, ML/AI, mobile app development, and low-level computer
+graphics, to name just a few.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my B.S. from Rutgers University in 2021 with a double major in Computer Science and Mathematics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I pride myself on my ability to pick apart complex topics and uncover their core concepts; it bothers
+me to interact with a system and not fully understand what's going on under its hood.
+
+My favorite ways to spend my spare time are playing classical piano, cooking, and making my [factory](https://www.factorio.com) grow.

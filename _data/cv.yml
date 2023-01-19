@@ -1,97 +1,104 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Albert Einstein
+#     - name: Date of Birth
+#       value: 14th March 1879
+#     - name: Languages
+#       value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. (incomplete)
+      institution: Rutgers University
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Conducted individual research on the application of reinforcement learning to robotic manipulation
+        - Designed a parallel training and execution pipeline for non-prehensile manipulation of objects in obstacle-cluttered scenes, using PyTorch and Isaac Gym to distribute learning across thousands of GPU-accelerated simulations
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor of Science
+      institution: Rutgers University
+      year: 2017 - 2021
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Summa cum laude (4.0 GPA)
+        - Contributed to research on neural network compression, leading to a <a href="/publications/">publication</a>
+        - title: Extracurriculars
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+            - Peer Tutor
+            - Honors Program Advisory Board
+            - IEEE Student Branch (Robotics & ML/AI divisions)
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Employment
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Teaching Assistant
+      institution: Rutgers University
+      year: 2021 - 2022
+      description:
+        - Organized and taught supplementary lecture material to ~40 students in weekly recitations
+        - Held weekly office hours to engage with students one-on-one
+        - title: Courses
+          contents:
+            - Introduction to Artificial Intelligence (Fall 2022)
+            - Systems Programming (Spring 2022)
+            - Introduction to Discrete Structures I (Fall 2021)
+    - title: Software Development Intern
+      institution: The Guardian Life Insurance Company of America
+      year: 2019
+      description:
+        - Designed an automated UI testing suite in Swift for the company's iOS application, reducing manual testing time
+        - Created a mock data framework, allowing developers to quickly test on specific data without touching live data servers
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Mathematics Grader
+      institution: Rutgers University
+      year: 2018
+      description:
+        - Graded Honors Calculus II students' quizzes and homework
+        - Analyzed students' work and provided feedback to the course professor on where students most needed improvement
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Digital Inventory Manager
+      institution: CybrTrayd
+      year: 2017
+      description:
+      - Automated inventory tracking with Python and Excel to ensure that hundreds of inventory records were consistent across multiple online platforms
+      - Expanded and oversaw the company's online presence via external vendors (Amazon, eBay, Walmart, Etsy)
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
