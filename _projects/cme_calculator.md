@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CME Calculator
+date: 2023-03-01 00:00:00
 description: Analysis and design of a CME steam battery
 img: assets/img/CME.png
 importance: 1
