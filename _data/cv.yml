@@ -8,6 +8,12 @@
 #     - name: Languages
 #       value: English, German
 
+- title: Skillset
+  type: list
+  contents:
+    - <strong>Languages:</strong> Python, C/C++, Swift, JavaScript, Java, C#, HTML/CSS, Lua
+    - <strong>Technologies:</strong> PyTorch, NumPy, POSIX shell, Flask, Isaac Gym
+
 - title: Education
   type: time_table
   contents:
