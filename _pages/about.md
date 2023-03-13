@@ -3,7 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <b>Software Developer seeking employment.</b> Previously: <a href="https://arc-l.github.io">ARC Lab</a> @ RU
+  <strong>Software Engineer seeking employment.</strong>
+  <br/>Previously: Researched robotic manipulation at <a href="https://arc-l.github.io">Algorithmic Robotics and Control Lab</a>, Rutgers University.
 
 profile:
   align: right
@@ -17,14 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a project person with a passion for all things technological. I love exploring the world of software, hardware,
-and the human experience to identify creative and fulfilling projects. I've dabbled in a variety of disciplines
-through my work, courses, and personal projects: robotics, ML/AI, mobile app development, and low-level computer
-graphics, to name just a few.
+I love to break concepts down and rebuild them as functional tools. I've used machine learning
+to train robots, published research on a novel neural network compression technique, worked
+in iOS frontend development, built projects from the hardware up, and more. I'm drawn to
+challenges which abstract complex theory into simple, useful, and meaningful technology.
 
-I received my B.S. from Rutgers University in 2021 with a double major in Computer Science and Mathematics.
+I graduated from Rutgers University in 2021 as a Bachelor of Science in Computer Science and
+Mathematics. My studies focused on artificial intelligence with applications in robotics,
+linear algebra, and real analysis.
 
-I pride myself on my ability to pick apart complex topics and uncover their core concepts; it bothers
-me to interact with a system and not fully understand what's going on under its hood.
-
-My favorite ways to spend my spare time are playing classical piano, cooking, and making my [factory](https://www.factorio.com) grow.
+In my spare time, I enjoy playing classical music on piano, building electronics and software
+projects, cooking, and making my [factory](https://www.factorio.com) grow.
