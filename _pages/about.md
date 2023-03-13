@@ -7,10 +7,10 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>At <a href="https://icra2022.org">ICRA 2022</a> :)</p>
+    <p>At <a href="https://en.wikipedia.org/wiki/Quinta_da_Regaleira">Quinta de Regaleira</a> :)</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
