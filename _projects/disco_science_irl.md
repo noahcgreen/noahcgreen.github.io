@@ -3,7 +3,7 @@ layout: page
 title: Disco Science IRL
 date: 2023-03-26 00:00:00
 description: A physical counterpart to the Factorio Disco Science mod
-img: assets/img/disco-science.png
+img: assets/img/disco-science-irl/parts4.png
 importance: 1
 category: fun
 ---
