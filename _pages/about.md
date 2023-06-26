@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <strong>Software Engineer seeking employment.</strong>
+  <strong>Technology Analyst @ <a href=https://www.fiserv.com>Fiserv</a>.</strong>
   <br/>Previously: Researched robotic manipulation at <a href="https://arc-l.github.io">Algorithmic Robotics and Control Lab</a>, Rutgers University.
 
 profile:
