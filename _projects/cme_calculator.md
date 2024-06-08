@@ -32,7 +32,7 @@ the energy requirements, but this is the most straightforward and practical one 
             </tr>
             <tr>
                 <td><label for="solar">Solar modifier</label></td>
-                <td><input id="solar" type="number" value="100" min="0" max="100"></td>
+                <td><input id="solar" type="number" value="100" min="0"></td>
             </tr>
             <tr>
                 <td><label for="duration">CME duration (seconds)</label></td>
