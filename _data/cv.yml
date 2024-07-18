@@ -38,6 +38,13 @@
 - title: Employment
   type: time_table
   contents:
+    - title: Technology Analyst
+      institution: Fiserv
+      year: 2023 - Present
+      description:
+        - Design and implement a cloud migration strategy...
+        - Support development teams by providing easy-to-use integrations for AWS architecture
+        - Reduced deployment times (by how much?) by replacing config server with Secrets Manager...
     - title: Teaching Assistant
       institution: Rutgers University
       year: 2021 - 2022
